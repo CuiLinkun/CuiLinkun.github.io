@@ -1,32 +1,3 @@
----
-permalink: /
-title: ""
-excerpt: ""
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-<span class='anchor' id='about-me'></span>
-
-<head>
-    <style>
-        .container {
-            display: flex;
-        }
-        .text {
-            flex: 75%;
-        }
-        .image {
-            flex: 25%;
-            display: flex;
-            justify-content: flex-end;
-        }
-    </style>
-</head>
-
-
 
 > “I went to the woods because I wanted to live deliberately.
 > I wanted to live deep and suck out all the marrow of life.
