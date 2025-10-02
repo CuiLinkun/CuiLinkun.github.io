@@ -18,7 +18,7 @@
         </p>
     </div>
     <div class="image">
-        <img src="images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="60%">
+        <img src="CuiLinkun.github.io/images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="60%">
     </div>
 </div>
 
