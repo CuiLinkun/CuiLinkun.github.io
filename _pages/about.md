@@ -1,4 +1,12 @@
-
+---
+permalink: /
+title: ""
+excerpt: ""
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
 > “I went to the woods because I wanted to live deliberately.
 > I wanted to live deep and suck out all the marrow of life.
 > To put to rout all that was not life, and not, when I came to die, discover that I had not lived.”‌
@@ -10,16 +18,9 @@
 
 <body>
 
-<div class="container">
-        <div class="image">
-        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="30px" height="40px">
-    </div>
-    <div class="text">
-        <p>I am a first-year graduate student (2025.09 - Present) in <a href='https://cies.hhu.edu.cn/'>College of Computer Science and Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>, majoring in Electronic Information. I obtained my B.Sc. degree in Internet of Things Engineering from <a href='https://www.qlu.edu.cn/'>Qilu University of Technology</a> in 2024, with a GPA of 3.8/5.0 (top 15% in my major).<br><br>
-        My research interests focus on <b>embedded systems development</b>, <b>intelligent sensing and detection technology</b>, and <b>multi-sensor fusion</b>. During my undergraduate studies, I independently developed an elderly fall detection intelligent patch and participated in the development of a wood factory environment monitoring system, accumulating experience in STM32, MPU6050, ESP8266, and MQTT protocol. I also have practical experience in embedded hardware debugging and software development through an internship. Here is my <a href='../papers/cuilinkun_cv.pdf'>Chinese Resume</a> (简历已上传至papers文件夹). 
-        </p>
-    </div>
-</div>
+ <div style="display: flex; align-items: center; gap: 15px; margin: 10px 0;">      <div style="width: 30px; height: 40px;">         <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="100%" height="100%" object-fit="cover">     </div>          <div style="flex: 1;">        
+
+ <p>I am a first-year graduate student (2025.09 - Present) in <a href='https://cies.hhu.edu.cn/'>College of Computer Science and Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>, majoring in Electronic Information. I obtained my B.Sc. degree in Internet of Things Engineering from <a href='https://www.qlu.edu.cn/'>Qilu University of Technology</a> in 2024, with a GPA of 3.8/5.0 (top 15% in my major).<br><br>         My graduate supervisor is <a href='https://lyushenhuan.github.io/' target='_blank'>Prof. Shenhuan Lyu</a>(吕沈欢教授). My research interests focus on <b>edge computing</b>, <b>deep learning</b>, and <b>intelligent applications of embedded systems</b>. During my undergraduate studies, I independently developed an elderly fall detection intelligent patch and participated in the development of a wood factory environment monitoring system, accumulating experience in STM32, MPU6050, ESP8266, and MQTT protocol. I also have practical experience in embedded hardware debugging and software development through an internship. Here is my <a href='../papers/cuilinkun_cv.pdf'>Chinese Resume</a> (简历已上传至papers文件夹).         </p>     </div> </div>
 
 </body>
 
