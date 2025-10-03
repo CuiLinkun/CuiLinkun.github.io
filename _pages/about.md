@@ -10,7 +10,7 @@
 
 <body>
 <div class="image">
-        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="15%" height="40px">
+        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="30px" height="40px">
     </div>
 <div class="container">
     <div class="text">
