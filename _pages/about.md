@@ -10,15 +10,14 @@
 >     》）</div>
 
 <body>
-
+<div class="image">
+        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="15%">
+    </div>
 <div class="container">
     <div class="text">
         <p>I am a first-year graduate student (2025.09 - Present) in <a href='https://cies.hhu.edu.cn/'>College of Computer Science and Software Engineering</a> at <a href='https://www.hhu.edu.cn/'>Hohai University</a>, majoring in Electronic Information. I obtained my B.Sc. degree in Internet of Things Engineering from <a href='https://www.qlu.edu.cn/'>Qilu University of Technology</a> in 2024, with a GPA of 3.8/5.0 (top 15% in my major).<br><br>
         My research interests focus on <b>embedded systems development</b>, <b>intelligent sensing and detection technology</b>, and <b>multi-sensor fusion</b>. During my undergraduate studies, I independently developed an elderly fall detection intelligent patch and participated in the development of a wood factory environment monitoring system, accumulating experience in STM32, MPU6050, ESP8266, and MQTT protocol. I also have practical experience in embedded hardware debugging and software development through an internship. Here is my <a href='../papers/cuilinkun_cv.pdf'>Chinese Resume</a> (简历已上传至papers文件夹). 
         </p>
-    </div>
-    <div class="image">
-        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="15%">
     </div>
 </div>
 
@@ -79,7 +78,3 @@
   GPA: 3.88/5.0 (Top 15% in Major)<br>
   Core Courses: Fundamentals of Programming (4.6/5.0), Data Structures (5.0/5.0), Java Advanced Programming (5.0/5.0), Computer Organization and Architecture (5.0/5.0), Data Analysis Algorithms and Applications (4.6/5.0)<br>
   Certifications: CET-4, CET-6
-
-
-<br><br><br><br>
-
