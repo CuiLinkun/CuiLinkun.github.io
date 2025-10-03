@@ -18,7 +18,7 @@
         </p>
     </div>
     <div class="image">
-        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="60%">
+        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="30%">
     </div>
 </div>
 
@@ -83,4 +83,3 @@
 
 <br><br><br><br>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=tt&d=f6H62vvUiuP417y0Ay_kEFkOzotDi4AXgmWyKl59wTY'></script>
