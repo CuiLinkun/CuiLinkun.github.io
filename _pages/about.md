@@ -6,12 +6,11 @@
 > "我步入丛林， 因为希望活得有意义。我希望活得深刻，吸取生命中所有的精华。
 > 我希望把非生命的一切都击溃，以免当我生命终结时，发现自己从来没有活过。"
 >
-> <div align="right">—— 亨利·戴维·索罗（《死亡诗社
->     》）</div>
+> <div align="right">—— 亨利·戴维·索罗（《死亡诗社》）</div>
 
 <body>
 <div class="image">
-        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="15%">
+        <img src="../images/cuilinkun-avatar.png" alt="Cui Linkun Avatar" width="15%" height="20%">
     </div>
 <div class="container">
     <div class="text">
